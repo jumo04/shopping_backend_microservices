@@ -1,0 +1,16 @@
+
+Monolithic Nodejs App => Microservice 
+
+Online Household Products Order Application
+
+functional requirements
+1. Listing of the Available Products
+2. User Sign up/ Sign in
+3. Add to cart
+4. whishlist
+5. place an Order
+6. view Orders
+7. view cart
+8. check out
+9. cancel order
+
