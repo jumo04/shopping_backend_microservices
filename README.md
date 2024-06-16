@@ -1,6 +1,11 @@
 # Shopping Backend Microservices
+<div>
 
-Este es un proyecto implementando la arquitectura de microservicios para una tienda de linea.
+[![Javascript][Javascript]][Javascript-url]
+[![Node][Nodejs]][Node-url]
+ ![express] ![RabbitMQ]
+
+</div>
 
 ## Descripción
 
@@ -8,33 +13,27 @@ Este es el backend para un tienda en linea de productos usando una arquitectura 
 
 ## Stack
 
-### Lenguaje
-
-[![Javascript][Javascript]][Javascript-url]
-
-
-### Runtime 
-
- [![Node][Nodejs]][Node-url]
-
 ### Librerias
 
 * ![amqplib]
 * ![express]
 * ![axios]
 * ![mongodb]
-* ![nodemon]
+* ![nodemon] 
 * ![dotenv]
 * ![winston]
 * ![jsonwebtoken]
 * ![uuid]
 * ![bcrypt]
 
-
 ## Autor
 
-Juan Fernando Moreno </br>
-Ingeniero de Sistemas </br>
+[@Juan Fernando Moreno](https://github.com/jumo04)
+
+
+## Contacto
+
+[![linkedin-shield][linkedin-shield]][linkedin-url] </br>
 ![Universidad]
 
 
@@ -51,9 +50,9 @@ Ingeniero de Sistemas </br>
 
 [nodemon]: https://img.shields.io/badge/nodemon-grey?style=flat&logo=nodemon
 [Javascript-url]: https://lenguajejs.com/javascript/
-[Nodejs]: https://img.shields.io/badge/Nodejs-green?style=flat&logo=nodedotjs
+[Nodejs]: https://img.shields.io/badge/Nodejs-grey?style=flat&logo=nodedotjs
 [Node-url]: https://nodejs.org/
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-Juan%20Fernando%20Moreno-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [RabbitMq]: https://img.shields.io/badge/RabbitMQ-grey?style=falt&logo=rabbitmq
 [cloudamqp]: https://img.shields.io/badge/CloudAMQP-grey?style=falt&logo=rabbitmq
 [cloudamqp-url]: https://www.cloudamqp.com/
